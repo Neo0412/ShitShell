@@ -30,3 +30,4 @@ More are to be added in the future!
 # !! ONLY FOR USE ON YOUR DEVICES !!
 
 Thanks to beigeworm for the idea with the pastebin!
+Please note that I have only created this script for practice purposes :)
